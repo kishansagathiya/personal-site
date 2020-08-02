@@ -8,6 +8,8 @@ I am trying to improve credentialism by [Master in AI](https://www.masterinai.co
 
 I helped building [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)
 
+An enthusiastic Software Engineer, interested in distributed web, peer to peer and privacy technologies, cloud native technologies and distributed systems
+
 | Start | End | Company |
 | --------------- | --------------- | ----------- |
 | Dec '18 | Jan '20 | Worked at [Protocol Labs (YC S14)](https://protocol.ai/) |
