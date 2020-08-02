@@ -33,7 +33,7 @@ linkedin="https://www.linkedin.com/in/kishansagathiya/"
 [params]
 headTitle = "Kishan Sagathiya"
 subtitle = "Software Engineer insterested in Distributed Systems, P2P, Privacy technology and AI"
-avatar = "/imgs/favicon.png"
+favicon = "/imgs/favicon.png"
 
 [[params.socials]]
 name = "About Me"
