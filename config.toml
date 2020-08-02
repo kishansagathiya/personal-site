@@ -1,0 +1,52 @@
+baseURL = "https://kishansagathiya.github.io/"
+languageCode = "en-us"
+title = "Kishan Sagathiya"
+theme = "kiera"
+
+[menu]
+# Shown in the side menu.
+  [[menu.main]]
+    name = "About"
+    weight = 1
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Talks"
+    weight = 1
+    identifier = "talks"
+    url = "/talks/"
+  [[menu.main]]
+    name = "Resume"
+    weight = 1
+    identifier = "resume"
+    url = "/pdfs/Kishan_Sagathiya.pdf"
+  [[menu.main]]
+    name = "Old Blog"
+    weight = 1
+    identifier = "oldblog"
+    url = "https://medium.com/@kishansagathiya"
+
+[social]
+github="https://github.com/kishansagathiya"
+linkedin="https://www.linkedin.com/in/kishansagathiya/"
+
+[params]
+headTitle = "Kishan Sagathiya"
+subtitle = "Software Engineer insterested in Distributed Systems, P2P, Privacy technology and AI"
+avatar = "/imgs/favicon.png"
+
+[[params.socials]]
+name = "About Me"
+link = "/about"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/kishansagathiya"
+[[params.socials]]
+name = "LinkedIn"
+link = "https://www.linkedin.com/in/kishansagathiya/"
+
+[author]
+    name = "Kishan Sagathiya"
+    github = "kishansagathiya"
+    linkedin = "kishansagathiya"
+

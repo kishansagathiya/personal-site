@@ -1,0 +1,36 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/northendlab"]
+	path = themes/northendlab
+	url = https://github.com/themefisher/northendlab-hugo.git
+[submodule "themes/cupper"]
+	path = themes/cupper
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "themes/tokiwa"]
+	path = themes/tokiwa
+	url = https://github.com/heyeshuang/hugo-theme-tokiwa
+[submodule "themes/hugo-ink"]
+	path = themes/hugo-ink
+	url = git@github.com:knadh/hugo-ink.git
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = git@github.com:MunifTanjim/minimo.git
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = git@github.com:joway/hugo-theme-yinyang.git
+[submodule "themes/vitae"]
+	path = themes/vitae
+	url = git@github.com:dataCobra/hugo-vitae.git
+[submodule "themes/indigo"]
+	path = themes/indigo
+	url = git@github.com:AngeloStavrow/indigo.git
+[submodule "themes/soho"]
+	path = themes/soho
+	url = git@github.com:alexandrevicenzi/soho.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = git@github.com:spf13/hyde.git
+[submodule "themes/kiera"]
+	path = themes/kiera
+	url = git@github.com:funkydan2/hugo-kiera.git
