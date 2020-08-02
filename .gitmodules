@@ -34,3 +34,7 @@
 [submodule "themes/kiera"]
 	path = themes/kiera
 	url = git@github.com:funkydan2/hugo-kiera.git
+[submodule "public"]
+	path = public
+	url = git@github.com:kishansagathiya/kishansagathiya.github.io.git
+	branch = master
