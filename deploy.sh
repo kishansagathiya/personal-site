@@ -22,4 +22,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin git@github.com:kishansagathiya/kishansagathiya.github.io.git
+git push origin master
