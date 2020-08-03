@@ -14,6 +14,6 @@ An enthusiastic Software Engineer, interested in distributed web, peer to peer a
 | --------------- | --------------- | ----------- |
 | Dec '18 | Jan '20 | Worked at [Protocol Labs (YC S14)](https://protocol.ai/) |
 | Sept '17 | Dec '18 | Worked at [Red Hat](https://www.redhat.com/en)           |
-| May '17 | Aug '17 | Worked at [MoneySmart](https://play.google.com/store/apps/details?id=co.in.moneysmart) |
+| May '17 | Aug '17 | Worked at [MoneySmart](https://www.moneysmart.co.in/) |
 
 '17: Graduated from National [Institute Of Technology Karnataka, Surathkal](https://www.nitk.ac.in/) (BTech: Information Technology)
