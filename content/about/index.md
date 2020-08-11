@@ -17,3 +17,5 @@ An enthusiastic Software Engineer, interested in distributed web, peer to peer a
 | May '17 | Aug '17 | Worked at [MoneySmart](https://www.moneysmart.co.in/) |
 
 '17: Graduated from National [Institute Of Technology Karnataka, Surathkal](https://www.nitk.ac.in/) (BTech: Information Technology)
+
+[Resume PDF](/pdfs/kishan_sagathiya.pdf)
