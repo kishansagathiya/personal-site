@@ -1,7 +1,7 @@
 baseURL = "https://kishansagathiya.github.io/"
 languageCode = "en-us"
 title = "Kishan Sagathiya"
-theme = "hugo-ink"
+theme = "hugo-theme-codex"
 
 [menu]
 # Shown in the side menu.
@@ -35,7 +35,11 @@ theme = "hugo-ink"
     weight = 6
     identifier = "oldblog"
     url = "https://medium.com/@kishansagathiya"
-
+  [[menu.main]]
+    name = "Posts"
+    weight = 7
+    identifier = "posts"
+    url = "/posts/"
 
 [social]
 github="https://github.com/kishansagathiya"
@@ -45,6 +49,9 @@ linkedin="https://www.linkedin.com/in/kishansagathiya/"
 headTitle = "Kishan Sagathiya"
 subtitle = "Software Engineer insterested in Distributed Systems, P2P, Privacy technology and AI"
 favicon = "/imgs/favicon.png"
+github = "https://github.com/kishansagathiya"
+linkedin = "https://www.linkedin.com/in/kishansagathiya/"
+iconOrder = ["LinkedIn", "GitHub"]
 
 [[params.socials]]
 name = "About Me"

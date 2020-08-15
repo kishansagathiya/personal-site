@@ -4,6 +4,10 @@ date: 2020-07-24T13:57:10+05:30
 draft: false
 ---
 
+Checkout this video snippet
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LjFM8vw3pbU/0.jpg)](https://youtu.be/LjFM8vw3pbU?t=3139)
+
 For the most of my career I have written softwares using Golang and almost all
 of my code resides on the world to see.
 
