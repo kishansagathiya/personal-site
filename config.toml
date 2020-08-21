@@ -41,6 +41,8 @@ theme = "hugo-theme-codex"
     identifier = "posts"
     url = "/posts/"
 
+publishDir = "docs"
+
 [social]
 github="https://github.com/kishansagathiya"
 linkedin="https://www.linkedin.com/in/kishansagathiya/"
