@@ -26,14 +26,16 @@ Though, you don't know when some stock or market will go down, you need to have 
 ## Mutual fund sahi nahi hai (Mutual Funds are not good)
 NAV of an Equity Mutual Fund is just as volatile as price of a stock. Picking a mutual fund is just as difficult as picking a stock (probably more). Pick the wrong mutual fund and you could see bad returns.
 
-Overtime, mutual fund fees add up. Mutual fund house put most of their money into benchmark stock (think 60-70%) and use their own investment brain only on remaining amount. Some of the mutual funds notoriously invest all the money in the benchmark, thus putting zero effort and still collecting management fees from you.
+Over time, mutual fund fees add up. Mutual fund houses put most of their money into benchmark stocks (think 60-70%) and use their own investment brain only on the remaining amount. Some of the mutual funds notoriously invest all the money in the benchmark, thus putting zero effort and still collecting management fees from you.
 
 Most of them remain 100% invested and thus cannot take the benefit of low prices when the market goes down.
 
 I personally see no reason to invest in an equity mutual fund. 
-If you feel like investing in stocks take too much of your time and you would rather give your money to someone else and not bother about investing, equity mutual fund might seem like a good option. Fund houses release their portfolio each month, you could just buy those stocks yourself and save yourself the management fees.
+If you feel like investing in stocks take too much of your time and you would rather give your money to someone else and not bother about investing, equity mutual funds might seem like a good option. Fund houses release their portfolio each month, you could just buy those stocks yourself and save yourself the management fees.
 
-I, however, see a value in debt mutual funds. Though return is not guaranteed, they have historically provided better returns than fixed deposits with similar volatility. Stick to good institutions like HDFC and Kotak Mahindra.
+I, however, see a value in debt mutual funds. Though return is not guaranteed, they have historically provided better returns than fixed deposits with similar volatility.
+
+There has been incidents of mutual fund houses not abiding by the rules. Like Equity Mutual Fund lending money to other companies, or investing in private companies instead of public ones. Stick to good institutions like HDFC and Kotak Mahindra.
 
 ## Invest in India's consumption story
 I believe eventually most countries would have a similar life style and income gap between people from various countries would decrease. So, more and more people will become richer and come out of poverty line. This would result in more consumtion.
@@ -45,7 +47,7 @@ I think following are strong companies in these areas. You could buy their stock
 - NBFC: Bajaj Finance
 - Consumer Goods: Asian Paints, Nestle, Pidilite, Britannia, Marico, probably ITC as well
 
-India has a great Pharma and Chemical industry, but given that their stock prices risen a lot lately, I am not sure if their value is justified and which ones are better than others.
+India has a great Pharma and Chemical industry, but given that their stock prices have risen a lot lately, I am not sure if their value is justified and which ones are better than others.
 
 ## Invest with money that you don't need
 Though, stocks will give you good returns, but not when you want.
@@ -56,7 +58,7 @@ Even though, Fixed Deposit don't give you good returns, they are safe and safety
 Put fixed deposits only in large scheduled banks. Co-operative banks have high default rate (1 every month). Avoid them and other small banks, otherwise you would be at the risk of loosing your Fixed deposit money.
 
 ## Start small
-Start small. Initially you are just learning and betting. You will learn overtime. 
+Start small. Initially you are just learning and betting. You will learn over time. 
 
 Never remain fully invested. Don't worry about lost opportunities. You always need to have money left to invest further. If you remain fully invested, you will miss out when prices are low.
 
@@ -64,8 +66,8 @@ Never remain fully invested. Don't worry about lost opportunities. You always ne
 I am not sure how true this is, but it seems quite convincing to me.
 Instead of finding great rare companies that market has missed out and undervalued or are likely to disrupt things and give great returns, just pick companies that have strong business model, proven track records and is a well-oiled machine, which give you not great, but a decent return rather safely.
 
-I believe overtime this method would make more money. It's not about strokes of geniuses, but more about making fewer mistakes.
+I believe over time this method would make more money. It's not about strokes of geniuses, but more about making fewer mistakes.
 
 ## You should spend time for investing
 A lot of people shy away from learning about investment and are hesitant of putting time into it.
-Overtime, investment could easily generate more wealth than salary, thus I find it quite justifiable to put more effort and time to make better investment decisions, learning and staying updated about what is happening in your portfolio companies.
+Over time, investment could easily generate more wealth than salary, thus I find it quite justifiable to put more effort and time to make better investment decisions, learning and staying updated about what is happening in your portfolio companies.
