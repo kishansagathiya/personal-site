@@ -40,6 +40,11 @@ theme = "hugo-theme-codex"
     weight = 7
     identifier = "posts"
     url = "/posts/"
+  [[menu.main]]
+    name = "Life Tips"
+    weight = 7
+    identifier = "life-tips"
+    url = "/life-tips/"
 
 publishDir = "docs"
 

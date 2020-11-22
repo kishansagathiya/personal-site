@@ -18,7 +18,7 @@ it involves a lot more of reading through the documentation, searching through t
 internet and reading articles. If you have written softwares before, that definitely
 is a positive indication, but there is no telling how long you will take to learn things
 in this new organization. So, clearly what you can show on paper is not good
-enough to figure out if you can write good software, but neigher is interviewing you
+enough to figure out if you can write good software, but neither is interviewing you
 for a bunch of hours. 
 Thus making it a very interesting problem.
 
@@ -28,7 +28,7 @@ Engineers that makes sense for big corps, don't necessarily make sense for start
 Start-ups optimize for skills (what can you do right now). Big corp optimize for
 capabilities (what can you do six months from now, or even longer). 
 
-Overtime a typical startup find a good method to hire candidates that works for them.
+Overtime a typical startup finds a good method to hire candidates that works for them.
 But soon enough, they are going to be bigger, they will be getting a lot more applications
 and they would be able to invest more time in letting a talented person learn a new
 skills. They will have to change their method again and they will have to optimize their

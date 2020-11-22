@@ -20,3 +20,15 @@
 [submodule "themes/hugo-theme-codex"]
 	path = themes/hugo-theme-codex
 	url = git@github.com:jakewies/hugo-theme-codex.git
+[submodule "themes/texify"]
+	path = themes/texify
+	url = git@github.com:queensferryme/hugo-theme-texify.git
+[submodule "themes/soho"]
+	path = themes/soho
+	url = git@github.com:alexandrevicenzi/soho.git
+[submodule "themes/ezhil"]
+	path = themes/ezhil
+	url = git@github.com:vividvilla/ezhil.git
+[submodule "themes/hugo-theme-chunky-poster"]
+	path = themes/hugo-theme-chunky-poster
+	url = git@github.com:puresyntax71/hugo-theme-chunky-poster.git

@@ -11,11 +11,11 @@ etc. Apply their advice in your life and you will live a miserable poor life.
 
 Let me break this down.
 
-Most of successful people thinks that world is what they have experienced. In
+Most of successful people think that world is what they have experienced. In
 reality, they are all outliers. World they experience is vastly different than
 any one of us experience. They are successful, so they can get away with pretty
-much whatever bullshit they desire like work non-stop, or don't go to college.
-And their blind follower will somehow convince themselves whatever this
+much whatever bullshit they desire to say like work non-stop, or don't go to college.
+And their blind followers will somehow convince themselves of whatever this
 successful-but-ignorant dude is saying is the right thing to do. 
 
 When they give you advice, they are thinking that whatever worked for them
