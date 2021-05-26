@@ -72,6 +72,16 @@ At the moment, bitcoin is highly speculative and poses a lot of risk in terms of
 
 ![](/images/burry-on-bitcoin.png)
 
+You can buy Gold in form of Sovereign Gold Bond, ETFs, Mutual Fund, Digital, Physical Gold. Each of these has its own risks.
+
+My preference is to buy KOTAKGOLD ETF.
+
+This one is a great video for deciding on which instrument to buy.
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sJR0ge1779w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 ### Avoid earning fix-interest on cash
 Avoid fixed deposits, bonds, debt mutual funds, etc. Buying bonds is basically loaning money to someone at fix interest.
 
