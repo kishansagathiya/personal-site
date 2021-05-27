@@ -96,3 +96,5 @@ Inflation is basically the purchasing power you are losing for cash.
 
 ### Invest in yourself
 If you have skills that are in demand in the job market, you will always make a decent living despite inflation, since you would have a steady stream of cash in-flow.
+
+_NOTE: I am in the process of learning. I update my portfolio based on my new learnings. I can't be made responsible for you investment decision. I write these things with my current understanding. Take this with a pinch of salt and verify what does or does not make sense for you, before investing._
