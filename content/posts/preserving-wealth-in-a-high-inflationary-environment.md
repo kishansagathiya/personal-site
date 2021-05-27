@@ -61,9 +61,11 @@ After such strong base, he has created roof with individual stocks. If you look 
 
 Most of his stock picks would satisfy two characteristics described by Buffett [above](http://localhost:1313/posts/preserving-wealth-in-a-high-inflationary-environment/#which-businessesstocks-to-invest-in)
 
-Below, is Dalio's recommended all weather portfolio.
+Dalio has recommended an all weather portfolio.
 
 ![](/images/all-weather-portfolio.png)
+
+Personally, I don't like high allocation to bonds in his all weather portfolio. You can take inspiration from this portfolio and make an informed judgement for your case.
 
 ### Buy Gold, not Bitcoin
 Gold is a storage of wealth. With inflation gold price will also increase.
