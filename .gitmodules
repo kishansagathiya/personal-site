@@ -1,34 +1,3 @@
-[submodule "themes/tokiwa"]
-	path = themes/tokiwa
-	url = https://github.com/heyeshuang/hugo-theme-tokiwa
-[submodule "themes/hugo-ink"]
-	path = themes/hugo-ink
-	url = git@github.com:knadh/hugo-ink.git
-[submodule "themes/minimo"]
-	path = themes/minimo
-	url = git@github.com:MunifTanjim/minimo.git
-[submodule "themes/indigo"]
-	path = themes/indigo
-	url = git@github.com:AngeloStavrow/indigo.git
-[submodule "themes/kiera"]
-	path = themes/kiera
-	url = git@github.com:funkydan2/hugo-kiera.git
-[submodule "public"]
-	path = public
-	url = git@github.com:kishansagathiya/kishansagathiya.github.io.git
-	branch = master
 [submodule "themes/hugo-theme-codex"]
 	path = themes/hugo-theme-codex
 	url = git@github.com:jakewies/hugo-theme-codex.git
-[submodule "themes/texify"]
-	path = themes/texify
-	url = git@github.com:queensferryme/hugo-theme-texify.git
-[submodule "themes/soho"]
-	path = themes/soho
-	url = git@github.com:alexandrevicenzi/soho.git
-[submodule "themes/ezhil"]
-	path = themes/ezhil
-	url = git@github.com:vividvilla/ezhil.git
-[submodule "themes/hugo-theme-chunky-poster"]
-	path = themes/hugo-theme-chunky-poster
-	url = git@github.com:puresyntax71/hugo-theme-chunky-poster.git
