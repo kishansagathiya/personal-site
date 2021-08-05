@@ -16,16 +16,6 @@ theme = "hugo-theme-codex"
     identifier = "about"
     url = "/about/"
   [[menu.main]]
-    name = "PullRecruit"
-    weight = 3
-    identifier = "PullRecruit"
-    url = "https://pullrecruit.masterinai.com/score/kishansagathiya"
-  [[menu.main]]
-    name = "Master in AI"
-    weight = 4
-    identifier = "masterinai"
-    url = "https://masterinai.com/"
-  [[menu.main]]
     name = "Talks"
     weight = 5
     identifier = "talks"
@@ -45,6 +35,11 @@ theme = "hugo-theme-codex"
     weight = 7
     identifier = "life-tips"
     url = "/life-tips/"
+  [[menu.main]]
+    name = "Github Profle"
+    weight = 8
+    identifier = "github-profile"
+    url = "/github-profile/"
 
 publishDir = "docs"
 
