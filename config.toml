@@ -36,8 +36,13 @@ theme = "hugo-theme-codex"
     identifier = "life-tips"
     url = "/life-tips/"
   [[menu.main]]
-    name = "Github Profle"
+    name = "Tsundoku"
     weight = 8
+    identifier = "tsundoku"
+    url = "/tsundoku/"
+  [[menu.main]]
+    name = "Github Profle"
+    weight = 9
     identifier = "github-profile"
     url = "/github-profile/"
 
