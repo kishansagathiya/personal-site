@@ -13,6 +13,8 @@ An enthusiastic Software Engineer, interested in distributed web, peer to peer a
 
 | Start | End | Company |
 | --------------- | --------------- | ----------- |
+| Dec '24 | ------| Experimenting with Business and Life|
+| Sept '21 | Dec '24| [ChainSafe Systems](https://chainsafe.io/) |
 | Sept '20 | June '21| Freelanced for [Robovision](https://robovision.ai/) |
 | Dec '18 | Jan '20 | Worked at [Protocol Labs (YC S14)](https://protocol.ai/) |
 | Sept '17 | Dec '18 | Worked at [Red Hat](https://www.redhat.com/en)           |
