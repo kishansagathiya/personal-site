@@ -4,9 +4,6 @@ date: 2020-08-01T10:58:28+05:30
 draft: false
 ---
 
-
-I am trying to create AI Study Material at [Master in AI](https://masterinai.github.io/)
-
 I helped building [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)
 
 An enthusiastic Software Engineer, interested in distributed web, peer to peer and privacy technologies, cloud native technologies and distributed systems
