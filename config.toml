@@ -16,35 +16,35 @@ theme = "hugo-theme-codex"
     identifier = "about"
     url = "/about/"
   [[menu.main]]
+    name = "Posts"
+    weight = 3
+    identifier = "posts"
+    url = "/posts/"
+  [[menu.main]]
+    name = "Life Tips"
+    weight = 4
+    identifier = "life-tips"
+    url = "/life-tips/"
+  [[menu.main]]
     name = "Talks"
     weight = 5
     identifier = "talks"
     url = "/talks/"
   [[menu.main]]
-    name = "Old Blog"
-    weight = 6
-    identifier = "oldblog"
-    url = "https://medium.com/@kishansagathiya"
-  [[menu.main]]
-    name = "Posts"
-    weight = 7
-    identifier = "posts"
-    url = "/posts/"
-  [[menu.main]]
-    name = "Life Tips"
-    weight = 7
-    identifier = "life-tips"
-    url = "/life-tips/"
-  [[menu.main]]
     name = "Tsundoku"
-    weight = 8
+    weight = 6
     identifier = "tsundoku"
     url = "/tsundoku/"
   [[menu.main]]
-    name = "Github Profle"
-    weight = 9
+    name = "GitHub Profile"
+    weight = 7
     identifier = "github-profile"
     url = "/github-profile/"
+  [[menu.main]]
+    name = "Old Blog"
+    weight = 8
+    identifier = "oldblog"
+    url = "https://medium.com/@kishansagathiya"
 
 publishDir = "docs"
 
@@ -53,12 +53,31 @@ github="https://github.com/kishansagathiya"
 linkedin="https://www.linkedin.com/in/kishansagathiya/"
 
 [params]
-headTitle = "Kishan Sagathiya"
-subtitle = "Software Engineer insterested in Distributed Systems, P2P, Privacy technology and AI"
-favicon = "/imgs/favicon.png"
-github = "https://github.com/kishansagathiya"
-linkedin = "https://www.linkedin.com/in/kishansagathiya/"
-iconOrder = ["LinkedIn", "GitHub"]
+  # Theme customization
+  fontFamily = "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell"
+  fontSize = "18px"
+  lineHeight = "1.6"
+  maxWidth = "768px"
+  contentPadding = "2rem"
+  
+  # Colors
+  primaryColor = "#2d5af1"
+  backgroundColor = "#ffffff"
+  textColor = "#2d3748"
+  
+  # Site information
+  headTitle = "Kishan Sagathiya"
+  subtitle = "Software Engineer interested in Distributed Systems, P2P, Privacy technology and AI"
+  favicon = "/imgs/favicon.png"
+  
+  # Social media
+  github = "https://github.com/kishansagathiya"
+  linkedin = "https://www.linkedin.com/in/kishansagathiya/"
+  iconOrder = ["LinkedIn", "GitHub"]
+  
+  # Additional features
+  enableDarkMode = true
+  showReadingTime = true
 
 [[params.socials]]
 name = "About Me"
