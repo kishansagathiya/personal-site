@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rls on Kishan Sagathiya</title>
+    <link>https://kishansagathiya.github.io/rl/</link>
+    <description>Recent content in Rls on Kishan Sagathiya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 00:05:13 +0530</lastBuildDate>
+    <atom:link href="https://kishansagathiya.github.io/rl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Reinforcement Learning</title>
+      <link>https://kishansagathiya.github.io/rl/introduction/</link>
+      <pubDate>Sun, 23 Aug 2020 00:05:13 +0530</pubDate>
+      <guid>https://kishansagathiya.github.io/rl/introduction/</guid>
+      <description>Reinforcement learning is an important type of Machine Learning where an agent learn how to behave in a environment by performing actions and seeing the results.&#xA;The idea behind Reinforcement Learning is that an agent will learn from the environment by interacting with it and receiving rewards for performing actions.&#xA;Learning from interaction with the environment comes from our natural experiences. Imagine you’re a child in a living room. You see a fireplace, and you approach it.</description>
+    </item>
+  </channel>
+</rss>
