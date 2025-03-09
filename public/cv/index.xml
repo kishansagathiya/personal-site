@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cvs on Kishan Sagathiya</title>
-    <link>https://kishansagathiya.github.io/cv/</link>
+    <link>http://localhost:1313/cv/</link>
     <description>Recent content in Cvs on Kishan Sagathiya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Aug 2020 22:35:10 +0530</lastBuildDate>
-    <atom:link href="https://kishansagathiya.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>References</title>
-      <link>https://kishansagathiya.github.io/cv/references/</link>
+      <link>http://localhost:1313/cv/references/</link>
       <pubDate>Fri, 21 Aug 2020 22:35:10 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/cv/references/</guid>
+      <guid>http://localhost:1313/cv/references/</guid>
       <description>https://cs231n.github.io/</description>
     </item>
     <item>
       <title>Problems</title>
-      <link>https://kishansagathiya.github.io/cv/problems/</link>
+      <link>http://localhost:1313/cv/problems/</link>
       <pubDate>Wed, 19 Aug 2020 10:59:19 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/cv/problems/</guid>
+      <guid>http://localhost:1313/cv/problems/</guid>
       <description>Some of the common Computer Vision Problems are as follows&#xA;Image Classification Given an image tell whether it contains a cat or not&#xA;Object Detection Check if particular objects exists in the image and specify their location by putting boundaries around them&#xA;Neural Style Transfer Repaint image on the left in the style of image on the right</description>
     </item>
   </channel>

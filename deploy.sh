@@ -5,21 +5,26 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-# Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+# Remove existing public directory
+rm -rf public
 
-# Go To Public folder
+# Build the project
+hugo
+
+# Initialize and configure public directory
 cd public
-
-# Add changes to git.
+git init
 git add .
 
-# Commit changes.
+# Commit changes
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
 git commit -m "$msg"
 
-# Push source and build repos.
-git push origin master
+# Add the remote repository
+git remote add origin git@github.com:kishansagathiya/kishansagathiya.github.io.git
+
+# Force push to the gh-pages branch
+git push -f origin master:gh-pages

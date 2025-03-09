@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kishan Sagathiya</title>
-    <link>https://kishansagathiya.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Kishan Sagathiya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jul 2024 00:05:23 +0530</lastBuildDate>
-    <atom:link href="https://kishansagathiya.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evolving in Career</title>
-      <link>https://kishansagathiya.github.io/posts/evolving-in-career/</link>
+      <link>http://localhost:1313/posts/evolving-in-career/</link>
       <pubDate>Wed, 24 Jul 2024 00:05:23 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/evolving-in-career/</guid>
+      <guid>http://localhost:1313/posts/evolving-in-career/</guid>
       <description>Recently I finished Polkadot Blockchain Academy in Singapore. If I find time and motivation someday, I will write a bit about it.&#xA;I met a lot of interesting people there. One of those people was this software engineer in his late 30s. He was a very technical person. He would have had opportunities to move into a managerial role, but from his own admission he enjoys being hands-on with tech more and thus, he chose to remain an engineer.</description>
     </item>
     <item>
       <title>Bitcoin vs Gold</title>
-      <link>https://kishansagathiya.github.io/posts/bitcoin-vs-gold/</link>
+      <link>http://localhost:1313/posts/bitcoin-vs-gold/</link>
       <pubDate>Tue, 08 Jun 2021 11:53:49 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/bitcoin-vs-gold/</guid>
+      <guid>http://localhost:1313/posts/bitcoin-vs-gold/</guid>
       <description>In this article, I am trying to compare Bitcoin and Gold as instruments to store savings. I won&amp;rsquo;t talk about which one is a better investment, in this blog. That discussion involves more pieces.&#xA;This is a wonderful debate.&#xA;Michael Saylor presented his case for Bitcoin wonderfully in an objective way and there is tremendous sense and value in every point he has presented.&#xA;On the other hand Frank Giustra did a terrible job presenting the case for gold.</description>
     </item>
     <item>
       <title>Preserving Wealth in a High Inflationary Environment</title>
-      <link>https://kishansagathiya.github.io/posts/preserving-wealth-in-a-high-inflationary-environment/</link>
+      <link>http://localhost:1313/posts/preserving-wealth-in-a-high-inflationary-environment/</link>
       <pubDate>Tue, 25 May 2021 21:50:26 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/preserving-wealth-in-a-high-inflationary-environment/</guid>
+      <guid>http://localhost:1313/posts/preserving-wealth-in-a-high-inflationary-environment/</guid>
       <description>High inflation is here!&#xA;It&amp;rsquo;s not me saying. Recently, a surprising number of influential people are saying this. Ray Dalio, Michael Burry and Jim Richards have been saying this since months. I was following the inflation discussion closely, but I was doubtful.&#xA;Buffet generally stays away from commenting on such things, but in the latest Berkshire Annual Meeting even he raised concerns of high inflation. He talked about how he has seen high inflation in the business that he is involved with.</description>
     </item>
     <item>
       <title>Investing</title>
-      <link>https://kishansagathiya.github.io/posts/investing/</link>
+      <link>http://localhost:1313/posts/investing/</link>
       <pubDate>Sun, 22 Nov 2020 11:41:11 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/investing/</guid>
+      <guid>http://localhost:1313/posts/investing/</guid>
       <description>For a growing country like India, depending on the year inflation can get somewhere around 6% to even 12%. That means value of your cash decreases a good amount every year. Bank Fixed Deposit rates are generally lower than inflation rates. Keep in mind that, you also have to pay 1% tax on income from Fixed Deposits.&#xA;To solve the problem of decreasing value of an individual&amp;rsquo;s money it is important to invest, in particular invest in stock market.</description>
     </item>
     <item>
       <title>Long Bets, Long Gains</title>
-      <link>https://kishansagathiya.github.io/posts/long-bets-long-gains/</link>
+      <link>http://localhost:1313/posts/long-bets-long-gains/</link>
       <pubDate>Mon, 17 Aug 2020 16:02:12 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/long-bets-long-gains/</guid>
+      <guid>http://localhost:1313/posts/long-bets-long-gains/</guid>
       <description>Most people make money with a fairly understandable model. They perform some task for which they are sure that someone will pay them in some limited time. Doctors know that you will pay them once they give you advice and medicine. A shopkeeper knows that there are people around him who want toothpastes, so he would get lots of toothpastes and make them available to closeby people.&#xA;Most of these are fairly short term bets.</description>
     </item>
     <item>
       <title>Golang Is Not Truly Opensource</title>
-      <link>https://kishansagathiya.github.io/posts/golang-is-not-truly-opensource/</link>
+      <link>http://localhost:1313/posts/golang-is-not-truly-opensource/</link>
       <pubDate>Fri, 24 Jul 2020 13:57:10 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/golang-is-not-truly-opensource/</guid>
+      <guid>http://localhost:1313/posts/golang-is-not-truly-opensource/</guid>
       <description>Checkout this video snippet&#xA;For the most of my career I have written softwares using Golang and almost all of my code resides on the world to see.&#xA;I have a certain image of an Open Source project in my mind:&#xA;Code for Everyone to see Lot of people use the software They have a say in what happens to the project The project attempts to explain what the code does The project attempts to be easily accessible and conforms to the community rules Softwares are complex and big.</description>
     </item>
     <item>
       <title>How to Take Advice</title>
-      <link>https://kishansagathiya.github.io/posts/how-to-take-advice/</link>
+      <link>http://localhost:1313/posts/how-to-take-advice/</link>
       <pubDate>Sun, 19 Jul 2020 13:59:59 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/how-to-take-advice/</guid>
+      <guid>http://localhost:1313/posts/how-to-take-advice/</guid>
       <description>In general the rule of thumb in taking advice is do as I do, not do as I say.&#xA;Internet is filled with successful people giving advices. Elon Musk, Peter Theil, etc. Apply their advice in your life and you will live a miserable poor life.&#xA;Let me break this down.&#xA;Most of successful people think that world is what they have experienced. In reality, they are all outliers. World they experience is vastly different than any one of us experience.</description>
     </item>
     <item>
       <title>Tech Recruiting</title>
-      <link>https://kishansagathiya.github.io/posts/tech-recruiting/</link>
+      <link>http://localhost:1313/posts/tech-recruiting/</link>
       <pubDate>Sat, 18 Jul 2020 14:01:19 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/tech-recruiting/</guid>
+      <guid>http://localhost:1313/posts/tech-recruiting/</guid>
       <description>Recruiting in tech is a very interesting problem and I feel like very few companies have nailed this well, mostly because of nature of the problem.&#xA;Recruiting Software Engineer in general is a difficult task. Grades tell you if the person is hard-working and conformist. There is a positive co-relation between Grades and whether you can code or not, but it is not so strong. There is a positive co-relation between your competitive coding skills (think data structures and algorithms), but it is still not strong, because competitive programming requires you to spend a lot of time banging your head to solve some puzzle and relatively little time programming.</description>
     </item>
     <item>
       <title>Align the Interests!</title>
-      <link>https://kishansagathiya.github.io/posts/align-the-interests/</link>
+      <link>http://localhost:1313/posts/align-the-interests/</link>
       <pubDate>Sat, 20 Jun 2020 14:05:00 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/align-the-interests/</guid>
+      <guid>http://localhost:1313/posts/align-the-interests/</guid>
       <description>Any business where the interests of consumer and producer are not aligned, is begging to be disrupted.&#xA;A mutual fund house is not sufficiently incentivized to grow money invested in the fund. It is not their money. People working in finance can make more money by sales, than making your product better. You make more money by selling your mutual fund units than making better investment decisions using existing cash. It takes years to determine whether a investment decision is right or not.</description>
     </item>
     <item>
       <title>Spineless Intelligents Will Work for Risk Taking Idiots</title>
-      <link>https://kishansagathiya.github.io/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</link>
+      <link>http://localhost:1313/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</link>
       <pubDate>Sat, 20 Jun 2020 14:03:18 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</guid>
+      <guid>http://localhost:1313/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</guid>
       <description>In a world full of so many opportunities, where a poor person has all the valuable information at their disposal to make their lives better, intelligent and hard-working people are abundant.&#xA;In the business world, there are basically two kinds of people except your average office-goer Joe with a job, enterpreneurs and investors.&#xA;Enterpreneurs do all sorts of unconventional things to get users and create hype for whatever they are doing.</description>
     </item>
     <item>
       <title>Why Is BTech in India Four Years Long?</title>
-      <link>https://kishansagathiya.github.io/posts/why-is-btech-in-india-four-years-long/</link>
+      <link>http://localhost:1313/posts/why-is-btech-in-india-four-years-long/</link>
       <pubDate>Sun, 14 Jun 2020 14:07:30 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/why-is-btech-in-india-four-years-long/</guid>
+      <guid>http://localhost:1313/posts/why-is-btech-in-india-four-years-long/</guid>
       <description>An Undergraduate Engineering degree is the most popular degree in India. If you are reading this and you are indian, there are high chances that you are an engineer.&#xA;Try to remember the subjects in your Bachelor&amp;rsquo;s degree. Let&amp;rsquo;s try to remove everything that was useless in that degree and see what is left. Regardless of your engineering branch, the first year of engineering is same for all. In most cases, there are only one or two relevant subjects to your branch.</description>
     </item>
     <item>
       <title>Master in AI</title>
-      <link>https://kishansagathiya.github.io/posts/master-in-ai/</link>
+      <link>http://localhost:1313/posts/master-in-ai/</link>
       <pubDate>Tue, 19 May 2020 14:09:44 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/master-in-ai/</guid>
+      <guid>http://localhost:1313/posts/master-in-ai/</guid>
       <description>Few days ago I purchased the domain name masterinai.com and launched a site that would give people certificate saying that You have finished the coursework equivalent to that of a masters program and you possess similar knowledge.&#xA;Currently, education is free. If you want to learn anything, you can go online, find free books, tutorials series, video lectures. There are even sites that let&amp;rsquo;s you do free exercises. The education methods available online are highly superior compared to that of your college professor and classroom learning.</description>
     </item>
     <item>
       <title>Income Share Agreements</title>
-      <link>https://kishansagathiya.github.io/posts/income-share-agreements/</link>
+      <link>http://localhost:1313/posts/income-share-agreements/</link>
       <pubDate>Fri, 15 May 2020 14:13:59 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/income-share-agreements/</guid>
+      <guid>http://localhost:1313/posts/income-share-agreements/</guid>
       <description>Income Share Agreements are an excuse for education companies and colleges to charge a lot more money than what they truly deserve. A better way to do this would be to charge companies when they want to hire fresh graduates.&#xA;High tuition fees are unjustifiable, because knowledge has become cheap. The internet is filled with wonderful study materials, books, videos and tutorials. In such an environment, the marginal cost of a new study material that your college/bootcamp/(whatever new fancy thing they like to call them these days) provide is negligible (close to zero).</description>
     </item>
     <item>
       <title>Creators and Engineers</title>
-      <link>https://kishansagathiya.github.io/posts/creators-and-engineers/</link>
+      <link>http://localhost:1313/posts/creators-and-engineers/</link>
       <pubDate>Fri, 15 May 2020 14:12:18 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/creators-and-engineers/</guid>
+      <guid>http://localhost:1313/posts/creators-and-engineers/</guid>
       <description>For good or bad, you don&amp;rsquo;t need to be a Good Engineer to create a useful product. Most users don&amp;rsquo;t know the first thing about privacy, security and optimisation.&#xA;There is thread trending on hacker news about someone whose extension is being removed from Google Web Store. This person has written some seriously bad code, and is so clueless about why Google is removing their extension. His/her extension has more than a million users.</description>
     </item>
     <item>
       <title>My Brain Dump to Improve Higher Education</title>
-      <link>https://kishansagathiya.github.io/posts/my-brain-dump-to-improve-higher-education/</link>
+      <link>http://localhost:1313/posts/my-brain-dump-to-improve-higher-education/</link>
       <pubDate>Tue, 28 Jan 2020 14:15:36 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/my-brain-dump-to-improve-higher-education/</guid>
+      <guid>http://localhost:1313/posts/my-brain-dump-to-improve-higher-education/</guid>
       <description>These are my notes when I was thinking on how can I build to a college of my dreams. I don&amp;rsquo;t know when I will be able to do it, since&#xA;it will definitely require funding, it would take really long time to make a different kind of college mainstream, amount of money to be made are probably not justifiable with the efforts that anyone will have to put. I will feel as if I am doing a disservice if I try to the society squeeze more money So, I am putting all of my raw thoughts here, so if someone with superpowers ever gets lost on this corner of the internet, there is a tiny chance that this will become a reality.</description>
     </item>
     <item>
       <title>Problems With Working Remotely From India</title>
-      <link>https://kishansagathiya.github.io/posts/problems-with-working-remotely-from-india/</link>
+      <link>http://localhost:1313/posts/problems-with-working-remotely-from-india/</link>
       <pubDate>Sat, 25 Jan 2020 14:22:44 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/problems-with-working-remotely-from-india/</guid>
+      <guid>http://localhost:1313/posts/problems-with-working-remotely-from-india/</guid>
       <description>Remote work is great for so many reasons. You get to work from wherever you want, you don’t have to commute to the office and get stuck in traffic. It is great if you want to travel the world and work at the same time. It is great if you have kids to take care of and parents to help at home. You don’t have to move to a different city.</description>
     </item>
     <item>
       <title>Which Cryptocurrencies Will Survive</title>
-      <link>https://kishansagathiya.github.io/posts/which-cryptocurrencies-will-survive/</link>
+      <link>http://localhost:1313/posts/which-cryptocurrencies-will-survive/</link>
       <pubDate>Thu, 16 Jan 2020 14:24:27 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/posts/which-cryptocurrencies-will-survive/</guid>
+      <guid>http://localhost:1313/posts/which-cryptocurrencies-will-survive/</guid>
       <description>I am in the cryptocurrency/blockchain space now for about more than two years. Overtime, I have developed a hypothesis of my own about what it will take to make a cryptocurrency successful in the long run.&#xA;To understand this we have to realize that cryptocurrencies are directly opposite to the government. Much of the power that the government gets is from its ability to control the money, collect taxes, being able to spend that money in different sectors as government feels appropriate.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchains on Kishan Sagathiya</title>
-    <link>https://kishansagathiya.github.io/blockchain/</link>
+    <link>http://localhost:1313/blockchain/</link>
     <description>Recent content in Blockchains on Kishan Sagathiya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Aug 2020 16:54:39 +0530</lastBuildDate>
-    <atom:link href="https://kishansagathiya.github.io/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Definitions</title>
-      <link>https://kishansagathiya.github.io/blockchain/definitions/</link>
+      <link>http://localhost:1313/blockchain/definitions/</link>
       <pubDate>Sun, 02 Aug 2020 16:54:39 +0530</pubDate>
-      <guid>https://kishansagathiya.github.io/blockchain/definitions/</guid>
+      <guid>http://localhost:1313/blockchain/definitions/</guid>
       <description>Blockchain as a distributed ledger A blockchain is the ordered list of all transactions since inception. A transaction is an atomic event, an event whose sub-event parts make no sense in isolation.&#xA;Banks, especially, are prone to identify blockchain as a distributed ledger as it indeed dovetails with their models of the world.&#xA;In this view, instead of each bank relying exclusively on their own table of accounts in their own siloed (SQL) databases, the blockchain offers the promise of consolidating the table of accounts of one bank with the table of accounts of another, typically in the case of a transaction between accounts.</description>
     </item>
   </channel>
